@@ -1,0 +1,7 @@
+{
+    "db_url": "jdbc:mysql://localhost:3306/BANK",
+    "db_login": "root",
+    "db_password": "root",
+    "db_url_create": "jdbc:mysql://localhost:3306/",
+    "create_database_script": "src/main/resources/create_database.sql"
+}
